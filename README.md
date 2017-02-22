@@ -33,7 +33,7 @@ Benchmarks available at https://github.com/karliszigurs/QuickSearchBenchmarks
 <dependency>
     <groupId>com.zigurs.karlis.utils.search</groupId>
     <artifactId>QuickSearch</artifactId>
-    <version>1.8</version>
+    <version>1.8</version> 
 </dependency>
 ```
 
